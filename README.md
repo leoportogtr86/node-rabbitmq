@@ -1,5 +1,7 @@
 ### Integração de Node.js com RabbitMQ: Um Exemplo do Mundo Real
 
+![img.png](img.png)
+
 Integrar Node.js com RabbitMQ pode trazer grandes benefícios em termos de desempenho e escalabilidade para suas
 aplicações. Vamos construir um exemplo prático de como isso pode ser feito usando um aplicativo de processamento de
 pedidos de comércio eletrônico.
