@@ -145,6 +145,8 @@ essas etapas sejam gerenciadas de forma desacoplada e eficiente.
 
    Você verá no console do consumidor que ele recebeu e processou o pedido.
 
+![img_1.png](img_1.png)
+
 ### Conclusão
 
 Com esses passos, você configurou um sistema básico de envio e recebimento de mensagens usando Node.js e RabbitMQ. Esse
